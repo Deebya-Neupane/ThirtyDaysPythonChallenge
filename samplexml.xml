@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+  <firstname>Deebya</firstname>
+  <lastname>Neupane</lastname>
+  <home>Nepal</home>
+  <skill name = "HTML"/>
+  <skill name = "Python"/>
+  <skill name = "JavaScript"/>
+</person>  
